@@ -1,9 +1,135 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.8.6">
   <diagram name="Seite-1" id="nwPa76y-X5XMzPL2K8uC">
-    <mxGraphModel>
+    <mxGraphModel dx="958" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-1" value="Check image quality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-2" value="Inform about common mistakes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-3" value="Create checklist for collecting data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-4" value="Provide examples for good and bad images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-5" value="Tool for data annotation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="459" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-6" target="JTeIH7An6FHHoIXwUtM0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-6" target="JTeIH7An6FHHoIXwUtM0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-6" value="Store data in a structured way" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="547" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-7" target="JTeIH7An6FHHoIXwUtM0-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="538" />
+              <mxPoint x="408" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-7" target="JTeIH7An6FHHoIXwUtM0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-7" target="JTeIH7An6FHHoIXwUtM0-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="538" />
+              <mxPoint x="407" y="582" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-7" value="Versioning of different datasets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="519" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-8" target="JTeIH7An6FHHoIXwUtM0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-8" target="JTeIH7An6FHHoIXwUtM0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661.3420308430991" y="771" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-8" target="JTeIH7An6FHHoIXwUtM0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-8" value="Dashboard for dataset quality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="741" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-9" target="JTeIH7An6FHHoIXwUtM0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-9" target="JTeIH7An6FHHoIXwUtM0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-9" target="JTeIH7An6FHHoIXwUtM0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-9" value="Feedback on dataset quality and proposals for improvement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="862" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-10" value="Automatic data preprocessing and standardization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-11" target="JTeIH7An6FHHoIXwUtM0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-11" value="Identify underreoresented types of images" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="913" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-13" target="JTeIH7An6FHHoIXwUtM0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-13" target="JTeIH7An6FHHoIXwUtM0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-13" value="Clustering?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="913" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTeIH7An6FHHoIXwUtM0-16" target="JTeIH7An6FHHoIXwUtM0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-16" value="Identify bad images" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="853" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-19" value="warings" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="853" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-21" value="Provide examples" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="882.5" width="120" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-23" value="Amount of images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="708" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-25" value="&amp;nbsp;underrepresented classes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="753" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-27" value="Automatically select suitable images to enhance quality" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="942" width="120" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-29" value="Share of good images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="799" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-31" value="Store different datasets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="475" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-34" value="Standardized format" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="595" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-36" value="Compare different datasets" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="478" y="519" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="JTeIH7An6FHHoIXwUtM0-38" value="Efficient modeling for different dataset" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="478" y="566" width="120" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
