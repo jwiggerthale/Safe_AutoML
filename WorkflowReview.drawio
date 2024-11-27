@@ -1,26 +1,204 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.9.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.9.2" pages="2">
   <diagram name="Seite-1" id="Yq9eNVUB8aMpdLc4tktE">
-    <mxGraphModel dx="786" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6sYlEwsRBTDHdmyW6QFx-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Section 2&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="97" y="30" width="479" height="288" as="geometry" />
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-9" value="Section 2: Background" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="97" y="229" width="414" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6sYlEwsRBTDHdmyW6QFx-4" value="Section 3:&amp;nbsp;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Overview of XAI and critical decision systems&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="613" y="145" width="181" height="60" as="geometry" />
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aim:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;provide o&lt;span style=&quot;&quot;&gt;verview of XAI and critical decision systems&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6sYlEwsRBTDHdmyW6QFx-9">
+          <mxGeometry x="11" y="42" width="153" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="6sYlEwsRBTDHdmyW6QFx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="723" y="8" width="135" height="95" as="geometry" />
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Results:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Common understanding of XAI&lt;/li&gt;&lt;li&gt;Overview of basic XAI taxonomy&lt;/li&gt;&lt;li&gt;Working definition of critical decisions systems&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6sYlEwsRBTDHdmyW6QFx-9">
+          <mxGeometry x="183" y="42" width="211" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="6sYlEwsRBTDHdmyW6QFx-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aim:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;provide o&lt;span style=&quot;&quot;&gt;verview of XAI and critical decision systems&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="104" y="53" width="215" height="92" as="geometry" />
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-11" value="Section 3: Related Review Papers" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="97" y="471" width="414" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="6sYlEwsRBTDHdmyW6QFx-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aim:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;provide o&lt;span style=&quot;&quot;&gt;verview of XAI and critical decision systems&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="175" width="151" height="92" as="geometry" />
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aim:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Show unique contributions of our work&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6sYlEwsRBTDHdmyW6QFx-11">
+          <mxGeometry x="11" y="42" width="154" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="6sYlEwsRBTDHdmyW6QFx-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Results:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Common understanding of XAI&lt;/li&gt;&lt;li&gt;Definition&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="55" width="215" height="92" as="geometry" />
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Results:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Overview of reviews on XAI&amp;nbsp;&lt;/li&gt;&lt;li&gt;Definition of research gap, we try to bridge&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6sYlEwsRBTDHdmyW6QFx-11">
+          <mxGeometry x="188" y="42" width="205" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-14" value="Section 4: Literarure Review" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="548" y="360" width="414" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aim:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Define RQ&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Identfy literature&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Filter literature&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Examine literature&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6sYlEwsRBTDHdmyW6QFx-14">
+          <mxGeometry x="11" y="42" width="154" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="6sYlEwsRBTDHdmyW6QFx-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Results:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Overview of reviews on XAI&amp;nbsp;&lt;/li&gt;&lt;li&gt;Definition of research gap, we try to bridge&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6sYlEwsRBTDHdmyW6QFx-14">
+          <mxGeometry x="188" y="42" width="205" height="117" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tW4TefEium68_NQsiIl4" name="Seite-2">
+    <mxGraphModel dx="1209" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_KkhymdzscNkCMlNo2W2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-1" target="_KkhymdzscNkCMlNo2W2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-1" value="Research Questions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="196" width="138" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-2" target="_KkhymdzscNkCMlNo2W2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="141" />
+              <mxPoint x="400" y="141" />
+              <mxPoint x="400" y="184" />
+              <mxPoint x="401" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-3" target="_KkhymdzscNkCMlNo2W2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="494" y="142" />
+              <mxPoint x="400" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-6" target="_KkhymdzscNkCMlNo2W2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-7" target="_KkhymdzscNkCMlNo2W2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-23" value="Section 2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="55" width="198" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-2" value="Overview of XAI and critical decision systems&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-23">
+          <mxGeometry x="22.5" y="33" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-24" value="Section3&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="55" width="174" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-3" value="Related literature reviews, gaps in research" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-24">
+          <mxGeometry x="9" y="33" width="155.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-25" value="Section 4" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="155" width="177" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-4" value="Identification of literature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-25">
+          <mxGeometry x="20" y="88" width="138" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-5" value="Filtering of literature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-25">
+          <mxGeometry x="20" y="135" width="138" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-6" value="Organizing literature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-25">
+          <mxGeometry x="20" y="180" width="138" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_KkhymdzscNkCMlNo2W2-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88.35000000000002" y="121" as="sourcePoint" />
+            <mxPoint x="88.35000000000002" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_KkhymdzscNkCMlNo2W2-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88.35000000000002" y="168" as="sourcePoint" />
+            <mxPoint x="88.35000000000002" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-28" value="Section 5" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="386" width="177" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-7" value="Common XAI use cases in critical decision systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-28">
+          <mxGeometry x="15.5" y="32.25" width="147" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-10" target="_KkhymdzscNkCMlNo2W2-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="619" />
+              <mxPoint x="489" y="619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-29" value="Section 6" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="467" width="177" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_KkhymdzscNkCMlNo2W2-29" source="_KkhymdzscNkCMlNo2W2-9" target="_KkhymdzscNkCMlNo2W2-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="89" y="75" />
+              <mxPoint x="89" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-9" value="XAI use cases that contribute to safety of ML applications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-29">
+          <mxGeometry x="9" y="37" width="159" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-10" value="Proposal of R4VR framework to enhance safety of ML applications&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-29">
+          <mxGeometry x="9" y="88" width="160" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-32" target="_KkhymdzscNkCMlNo2W2-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="787" />
+              <mxPoint x="343" y="787" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_KkhymdzscNkCMlNo2W2-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="744" as="sourcePoint" />
+            <mxPoint x="353" y="812" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="418" y="744" />
+              <mxPoint x="418" y="787" />
+              <mxPoint x="492" y="787" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-40" value="Section 8" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="759" width="287" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-41" value="Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-40">
+          <mxGeometry x="6" y="43" width="120" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-43" value="Outlook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-40">
+          <mxGeometry x="155" y="43" width="120" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KkhymdzscNkCMlNo2W2-10" target="_KkhymdzscNkCMlNo2W2-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="402" y="619" />
+              <mxPoint x="342" y="619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-37" value="Section 7" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="627" width="290" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-30" value="Gaps in research" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-37">
+          <mxGeometry x="154" y="33" width="125" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-31" value="Promising approaches" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-37">
+          <mxGeometry x="9" y="33" width="122" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-32" value="Future directions of research" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KkhymdzscNkCMlNo2W2-37">
+          <mxGeometry x="85" y="83" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_KkhymdzscNkCMlNo2W2-37" source="_KkhymdzscNkCMlNo2W2-31" target="_KkhymdzscNkCMlNo2W2-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="68" />
+              <mxPoint x="145" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KkhymdzscNkCMlNo2W2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_KkhymdzscNkCMlNo2W2-37" source="_KkhymdzscNkCMlNo2W2-30" target="_KkhymdzscNkCMlNo2W2-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217" y="68" />
+              <mxPoint x="145" y="68" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
